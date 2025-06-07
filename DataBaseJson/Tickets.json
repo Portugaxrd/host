@@ -1,0 +1,29 @@
+{
+    "ticket_Ticket": {
+        "ID": "ticket",
+        "MessageID": "1380913425902997686",
+        "ChannelID": "1376128501220118588",
+        "embedconfig": {
+            "Button": {
+                "name": "Abrir Ticket",
+                "emoji": "👋",
+                "color": 1
+            }
+        },
+        "settings": {
+            "title": "Desenvolvimento > | Sistema de Ticket",
+            "desc": "➡️ Clique abaixo para abrir um TICKET na categoria `Não configurado ainda...`"
+        },
+        "functions": {
+            "criarcall": true,
+            "poke": true,
+            "assumir": true,
+            "renomear": true,
+            "pagamentos": true,
+            "gerenciarmembro": true,
+            "peguntas": false,
+            "protocolo": false
+        },
+        "permsTicket": []
+    }
+}

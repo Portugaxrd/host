@@ -1,0 +1,24 @@
+{
+    "ConfigGeral": {
+        "StatusTicket": "ON",
+        "MercadoPagoConfig": {
+            "PixToggle": "ON",
+            "SiteToggle": "ON",
+            "TimePagament": "10",
+            "TokenAcessMP": ""
+        },
+        "SemiAutoConfig": {
+            "SemiAutoStatus": "ON",
+            "typepix": ""
+        },
+        "Channels": {
+            "ChannelsLogs": "1378392017150939317",
+            "ChannelsAvaliar": "1378392017150939317",
+            "CategoriaTickets": "1376128455653195867"
+        },
+        "perms": [],
+        "cargos": {
+            "SuporteGeral": "1376130998487748628"
+        }
+    }
+}
