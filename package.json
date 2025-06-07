@@ -10,5 +10,8 @@
     "quick.db": "^9.1.6",
     "request": "^2.88.2",
     "wio.db": "^4.0.22"
+  },
+  "scripts": {
+    "start": "node main.js"
   }
 }
